@@ -1,4 +1,4 @@
-## Chose Your Own Adventure
+## Lost in the Woods!
 ---
 ### Demo
 ---
@@ -8,4 +8,4 @@ The purpose of this repository is to chose an adventure at being lost at the woo
 
 [Click here to see the diagram of this CYOA!](CYOAdiagram)
 
-Made by _Hassan Ali_
+Made by [Hassan Ali](https://github.com/Hassana6870?tab=repositories)
